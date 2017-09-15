@@ -1,0 +1,13 @@
+compile
+debug
+program
+dereference
+array
+integer
+pointer
+loop
+modulo
+printf
+scanf
+char
+comment

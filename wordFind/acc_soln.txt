@@ -1,0 +1,6 @@
+acc (4,5) NE
+wolfpack (0,0) SE
+tigers (1,2) S
+hokies (0,1) E
+hoops (7,1) SW
+deacons (5,7) N
